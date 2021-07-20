@@ -1,3 +1,5 @@
+const mySafeKey = "ghp_qwertyuioplkjhgfdfghjhgfdkjhgvbnkjhg"
+
 async function bootstrap() {
   throw new Error('ouch!')
 }
