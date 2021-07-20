@@ -1,4 +1,4 @@
-const mySafeKey = "ghp_9876543456789oiuhgfdcvbnmkjhgfv"
+const mySafeKey = "ghp_lkjuhygfvgbnjkjuhgvbnjkhgbnjhgbnmjjd"
 
 async function bootstrap() {
   throw new Error('ouch!')
